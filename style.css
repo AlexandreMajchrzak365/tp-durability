@@ -1,2 +1,8 @@
 /* Feuille de style de la page « Le poids caché du web » */
-/* Test */
+/* Faites un changement, du style : */
+body {
+    background-color: brown;
+}
+h2 {
+    color:blue;
+}
